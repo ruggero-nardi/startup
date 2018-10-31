@@ -1,0 +1,13 @@
+#container{
+    overflow:hidden;
+}
+
+#container h2{
+    float:left;
+    margin-right:30px;
+    cursor:pointer;
+}
+
+#section_two{
+    display:none;
+}
